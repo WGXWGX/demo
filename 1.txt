@@ -1,0 +1,38 @@
+
+
+GTC 视频网站
+http://www.geforce.cn/whats-new/articles/rig-spotlight-bs-mods-geforce-gtx-1080-h-tower
+http://www.geforce.cn/whats-new/articles/rig-spotlight-csgo-weapons-case-mod
+http://www.geforce.cn/whats-new/articles/rig-spotlight-hex-gear-r40-featuring-geforce-gtx-980-ti-sli
+http://www.geforce.cn/whats-new/articles/rig-spotlight-inwin-x-nvidia-battlebox-by-phenom-design
+
+
+TRAN-1040   quadro-vdws-for-professional-graphics-users-cn
+
+
+
+
+
+
+
+
+
+
+
+mautic    digital marketing 后台
+阿里云
+apache
+website目录
+
+apache configfile
+配置文件   etc下面
+数据    var。。下面
+mautic  是基于symfony的php框架
+改mautic内容在模板上改 .twig
+mautic做升级。
+1.代码更新 -- 改变新版本   release2.9.1  把主页面改成  在stateing 上改变version number，
+merge。  
+2.数据库更新 -- 数据库更新什么的，用symfony命令
+安装   
+3.不同版本怎么知道要更新不同版本呢。
+4.给edm做追踪代码链接。追踪链接系统。
